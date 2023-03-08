@@ -1,0 +1,31 @@
+{
+    "name": "Chase the Pizza",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.24",
+        "tag": "v1.12.24",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/89b1551216675ebebbbe889528fa9279c1a7bef3",
+        "target": "1.12.24",
+        "pxt": "8.5.35",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
